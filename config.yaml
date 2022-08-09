@@ -1,0 +1,8 @@
+rpc: https://rpc.ankr.com/eth
+dexes:
+  - name: UniswapV2
+    pair: 0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852 # ETH-USDT
+    decimals: [18,6]
+  - name: Sushiswap
+    pair: 0x06da0fd433c1a5d7a4faa01111c044910a184553
+    decimals: [18,6]
